@@ -1,0 +1,12 @@
+-Q . GV 
+
+-Q ./dblib/src Dblib
+dblib/src/DblibTactics.v
+dblib/src/DeBruijn.v
+dblib/src/DemoExplicitSystemF.v
+dblib/src/DemoImplicitSystemF.v
+dblib/src/DemoLambda.v
+dblib/src/DemoValueTerm.v
+dblib/src/Environments.v
+
+Main.v
